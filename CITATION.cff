@@ -4,11 +4,6 @@ authors:
 - family-names: "Kreidberg"
   given-names: "Laura"
   orcid: "https://orcid.org/0000-0003-0514-1147"
-title: "batman"
-version: 1.0.0
-doi: 10.1086/683602
-date-released: 2025-05-05
-url: "https://github.com/lkreidberg/batman"
 references:
   - type: article
     title: "batman: BAsic Transit Model cAlculatioN in Python"
